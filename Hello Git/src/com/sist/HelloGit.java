@@ -8,7 +8,7 @@ public class HelloGit {
         System.out.println("Who are you");
         System.out.println("It's DVCS-_-");
         System.out.println("What's git!?");
-
+        System.out.println("Fuck Fuck Fuck Fuck Fuck");
 	}
 }
 
