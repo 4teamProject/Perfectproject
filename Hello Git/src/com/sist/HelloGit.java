@@ -7,10 +7,10 @@ public class HelloGit {
         System.out.println("Hello Git!");
         System.out.println("Who are you");
         System.out.println("It's DVCS-_-");
+        System.out.println("What's git!?");
+
 	}
-
 }
-
 
 // add index
 // commit
