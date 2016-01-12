@@ -12,6 +12,7 @@ public class HelloGit {
 	}
 }
 
-// add index
-// commit
-// 노란 원통 아이콘 : 추적중임.
+// 오른쪽 클릭 : Team || Switch branch
+// Add to index 후에  Commit#
+// master 브랜치와 local 브랜치 병합시 오류 발생시, 직접 수정후에  Add index & Commit
+
