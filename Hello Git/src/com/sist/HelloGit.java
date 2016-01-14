@@ -10,6 +10,9 @@ public class HelloGit {
         System.out.println("What's git!?");
         System.out.println("Fuck Fuck Fuck Fuck Fuck");
         System.out.println("login in");
+        System.out.println("It's login function");
+        System.out.println("YongChoi");
+
 	}
 }
 
